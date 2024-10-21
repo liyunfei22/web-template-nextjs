@@ -62,14 +62,14 @@ const Topbar = ({
         />
       </Box>
       <Box sx={{ display: { xs: 'none', md: 'flex' } }} alignItems={'center'}>
-        <Box>
+        {/* <Box>
           <NavItem
             title={'Landings'}
             id={'landing-pages'}
             items={landingPages}
             colorInvert={colorInvert}
           />
-        </Box>
+        </Box> */}
         <Box marginLeft={4}>
           <NavItem
             title={'Company'}
@@ -110,7 +110,7 @@ const Topbar = ({
             colorInvert={colorInvert}
           />
         </Box>
-        <Box marginLeft={4}>
+        {/* <Box marginLeft={4}>
           <Button
             variant="contained"
             color="primary"
@@ -121,7 +121,7 @@ const Topbar = ({
           >
             Buy now
           </Button>
-        </Box>
+        </Box> */}
       </Box>
       <Box sx={{ display: { xs: 'flex', md: 'none' } }} alignItems={'center'}>
         <Button
