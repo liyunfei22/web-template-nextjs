@@ -83,7 +83,7 @@ No matter how well documented and built something is, sometimes you just need a 
 
 ## Contact Us
 
-- Email Us: hi@maccarianagency.com
+- Email Us
 - [Follow us on Linkedin](https://www.linkedin.com/company/maccarian)
 - [Follow us on Instagram](https://www.instagram.com/maccarian/)
 - [Follow us on Facebook](https://facebook.com/maccarian.agency/)
